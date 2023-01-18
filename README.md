@@ -17,22 +17,22 @@ The data can be found in [data/train.txt](data/train.txt),and the in-domain test
 ## ✍️ Results
 
 ### Accuracy
-![Accuracy](https://github.com/zamaniali1995/relation-extraction/blob/master/accuracy.png)
+![Accuracy](https://github.com/zamaniali1995/relation-extraction/blob/master/results/accuracy.png)
 
 ### Confusion Matrix
-![Confusion matrix](https://github.com/zamaniali1995/relation-extraction/blob/master/confusion_matrix.png)
+![Confusion matrix](https://github.com/zamaniali1995/relation-extraction/blob/master/results/confusion_matrix.png)
 
 ### Class 1 (Characters)
-![Class 1 (Characters)](https://github.com/zamaniali1995/relation-extraction/blob/master/class1_characters.png)
+![Class 1 (Characters)](https://github.com/zamaniali1995/relation-extraction/blob/master/results/class1_characters.png)
 
 ### Class 2 (Director)
-![Class 2 (Director)](https://github.com/zamaniali1995/relation-extraction/blob/master/class2_director.png)
+![Class 2 (Director)](https://github.com/zamaniali1995/relation-extraction/blob/master/results/class2_director.png)
 
 ### Class 3 (Performer)
-![Class 3 (Performer)](https://github.com/zamaniali1995/relation-extraction/blob/master/class3_performer.png)
+![Class 3 (Performer)](https://github.com/zamaniali1995/relation-extraction/blob/master/results/class3_performer.png)
 
 ### Class 4 (Publisher)
-![Class 4 (Publisher)](https://github.com/zamaniali1995/relation-extraction/blob/master/class4_publisher.png)
+![Class 4 (Publisher)](https://github.com/zamaniali1995/relation-extraction/blob/master/results/class4_publisher.png)
 
 ### Precision and recall
-![Class 4 (Publisher)](https://github.com/zamaniali1995/relation-extraction/blob/master/precision_recall.png)
+![Class 4 (Publisher)](https://github.com/zamaniali1995/relation-extraction/blob/master/results/precision_recall.png)
